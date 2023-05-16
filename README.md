@@ -17,7 +17,7 @@ Thanks for spying on me 🧐🕵️
 
 ### GitHub Summary 🎖️
 <div align="center">
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=zaidparkar&count_private=true&show_icons=true&theme=tokyonight&hide=stars&hide_title=true&include_all_commits=true&hide_border=true" />
+  <img height="170" align="center" src="https://vercel-stats-eta.vercel.app/api?username=zaidparkar&count_private=true&show_icons=true&theme=tokyonight&hide=stars&hide_title=true&include_all_commits=true&hide_border=true" />
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidparkar&theme=tokyonight" /> -->
 </div>
 
