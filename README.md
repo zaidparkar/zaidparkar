@@ -10,7 +10,7 @@ Thanks for spying on me 🧐🕵️
 
 ### Trophies 🏆
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=zaidparkar&theme=tokyonight&margin-w=20&row=1&column=6&no-frame=true" />
+  <img align="center" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=zaidparkar&theme=tokyonight&no-frame=true&column=-1&title=-Stars,-Commits,-Issues,-Reviews&margin-w=15&margin-h=15" />
 </div>
 
 ----
